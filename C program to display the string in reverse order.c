@@ -1,5 +1,4 @@
-//Name: Muhammad Haider
-//Roll_no: BCSF21M011
+//CODED BY: Muhammad Haider
 //C program to display the string in reverse order by using pointer
 
 #include <stdio.h>
@@ -26,7 +25,8 @@ int main()
 	char str[100];
 	char str1[100];
 	
-	puts("C program to print the string in reverse order\n______________________________________________\n");
+	puts("C program to print the string in reverse order");
+	printf("\n______________________________________________\n");
 	printf("Original string: ");
 	fgets(str, sizeof(str), stdin);
 	
