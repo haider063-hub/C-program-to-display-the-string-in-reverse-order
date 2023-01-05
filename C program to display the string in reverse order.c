@@ -1,5 +1,5 @@
 //CODED BY: Muhammad Haider
-//C program to display the string in reverse order by using pointer
+//C program to display the string in reverse order 
 
 #include <stdio.h>
 #pragma warning(disable:4996)
